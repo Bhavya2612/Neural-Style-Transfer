@@ -18,3 +18,6 @@ a) CONTENT RECONSTRUCTION :-
        
 b) STYLE RECONSTRUCTION :-
        Style representation is a multi-scale representation that includes multiple layers of the neural network.. 
+
+
+### OUTPUT IMAGES: 
