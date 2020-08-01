@@ -9,11 +9,12 @@ I've also used the feature space provided by 16 convolutional layers and 5 pooli
 ## About VGG Network : 
 It is a Convolutional neural network that rivals human performance on a common visual object detection/ recognition benchmark task. 
 
-# " Creativity of this Paper " 
+## "Creativity of this Paper" 
 The most interesting about this paper that distinguishes it from other papers aimed at "creating art" is that it doesn't deal with the exact pixel details, instead it makes use of difference between the "content" and "style" of an image which are reconstructed in the project.
 
 a) CONTENT RECONSTRUCTION :-
        A given image is represented as a set of filtered images at each processing stage. While no of filters increase along th eprocessing hierarchy of the model, the size of the        image is reduced by max pooling(However, it is later found out in the project that average pooling gives slightly better results than max). 
        While reconstruction from lower layers is almost perfect, the higher layers lack the detailed pixel info, however, high level content is preserved. 
+       
 b) STYLE RECONSTRUCTION :-
        Style representation is a multi-scale representation that includes multiple layers of the neural network.. 
