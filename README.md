@@ -20,5 +20,9 @@ b) STYLE RECONSTRUCTION :-
        Style representation is a multi-scale representation that includes multiple layers of the neural network.. 
 
 
+### INPUT IMAGES:
+![input](https://github.com/Bhavya2612/Neural-Style-Transfer/blob/master/Inputs/kdkdkd.png)
+![input2](https://github.com/Bhavya2612/Neural-Style-Transfer/blob/master/Inputs/skskkd.png)
+
 ### OUTPUT IMAGES: 
 ![output1](https://github.com/Bhavya2612/Neural-Style-Transfer/blob/master/Outputs/1.png)
